@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+ipykernel
+plotly
+seaborn
+scikit-learn 
+joblib
+flask
+streamlit
+
+-e . 
